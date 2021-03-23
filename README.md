@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# This is a demonstration of react-beautiful-dnd
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple app to show the functionality of react-beautiful-dnd, and to be practice for using
+react-beautiful-dnd during the app's construction.
 
 ## Available Scripts
 
