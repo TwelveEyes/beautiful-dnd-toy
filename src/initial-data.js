@@ -5,6 +5,7 @@ const initialData = {
     "task-3": { id: "task-3", content: "Charge phone" },
     "task-4": { id: "task-4", content: "Cook dinner" },
   },
+
   columns: {
     "column-1": {
       id: "column-1",
@@ -12,6 +13,7 @@ const initialData = {
       taskIds: ["task-1", "task-2", "task-3", "task-4"],
     },
   },
+
   // Facilitate reordering of columns
   columnOrder: ["column-1"],
 };
